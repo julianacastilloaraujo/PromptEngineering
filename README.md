@@ -11,6 +11,7 @@
 
 # ¿Quieres ver las DIAPOSITIVAS? 👩‍💻
 * Enlace directo a google docs -> [Prompt Engineering](https://docs.google.com/presentation/d/1Vm0kDg0Rf_KDhy24T_QzxUxsioPrGaCz/edit#slide=id.p4)
+* Descarga directa del archivo .pptx -> [Clic aqui 📌](https://github.com/julianacastilloaraujo/PromptEngineering/files/14833904/PROMPT.ENGINEERING.pptx) 
 
 
 
