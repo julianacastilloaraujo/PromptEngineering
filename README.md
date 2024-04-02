@@ -10,7 +10,7 @@
 > 📌 Lugar: Salón D101.
 
 # ¿Quieres ver las DIAPOSITIVAS? 👩‍💻
-* Enlace directo -> [Prompt Engineering](https://docs.google.com/presentation/d/1Vm0kDg0Rf_KDhy24T_QzxUxsioPrGaCz/edit#slide=id.p4)
+* Enlace directo a google docs -> [Prompt Engineering](https://docs.google.com/presentation/d/1Vm0kDg0Rf_KDhy24T_QzxUxsioPrGaCz/edit#slide=id.p4)
 
 
 
